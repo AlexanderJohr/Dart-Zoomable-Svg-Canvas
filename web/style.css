@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+html, body, #genre_overview_svg, #genre_overview {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+rect{
+  fill: transparent;
+  
+  stroke-width: 2;
+}
+
+rect : hover{
+  fill: black;
+}
+
+.gridline{
+  stroke:#bbafb9;
+  stroke-width:0.5;
+}

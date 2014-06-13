@@ -1,0 +1,4 @@
+name: Typologie_Der_Fotografie
+description: A sample web application
+dependencies:
+  browser: any
