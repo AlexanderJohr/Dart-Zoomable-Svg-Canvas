@@ -1,0 +1,772 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<typologieDerFotografie>
+	<genre stroemung="Dokumentarische Fotografie">
+		<weitereNamen> Ungegenständliche Fotografie, Experimentelle Fotografie, Struktubilder </weitereNamen>
+		<zeitraum> 1910 - heute (vereinzelt finden sich auch Bsp. im 19. Jhdt.) </zeitraum>
+		<programmatik>
+			Die Abstrakte Fotografie kaschiert ihr gegenstandsbezogenes Wesensmerkmal und versucht sich nicht in dokumentarischer 
+			und damit realitätsnaher Darstellung, sondern verfremdet bereits Bekanntes. Ungewohnte Perspektiven, Nahaufnahmen sowie 
+			experimentelle fototechnische Verfahren befragen das Medium nach seinen Gestaltungspotentialen. Sie ist ästhetisch und 
+			nicht informativ ausgerichtet und tendiert somit zur Inszenierten Fotografie, verneint aber die gegenständliche und 
+			symbolhafte Visualisierung. 
+		</programmatik>
+		<merkmale> 
+			kubistisch, irreal, konstruktivistisch, experimentell, formal, Struktur, Textur, Muster, All-over 
+		</merkmale>
+		<protagonisten>  Alvin Langdon Cuborn, Christian Schad (Schadografien), Man Ray (Rayographien) </protagonisten>
+		<zitate>
+			 "Im Vordergrund steht die Visualisierung einer (abstrakten) Idee, die unter bewusster Vernachlässigung von Aspekten 
+			 der Gegenständlichkeit und Wiedererkennbarkeit fotografisch realisiert wird und Aussagen erlaubt, welche mit ikonischen 
+			 oder bildsymbolischen Mitteln nicht möglich sind. Das Gebiet schließt ebenso die Abstraktion (von Wirklichkeit) als auch 
+			 die Konkretion (von Möglichkeit) in sich ein." Gottfried Jäger
+		</zitate>
+		<einfluesse> Wird von den Experimenten der Wissenschaftlichen Fotografie beeinflusst, propagiert aber keine analytische Wahrheit. </einfluesse>
+		<auswirkungen> 
+			Verschiedene künstlerische Strömungen wie das Neue Sehen am Bauhaus und die daran anknüpfende Subjektive Fotografie lassen 
+			sich tendenziell dieser Bildgattung zuordnen.
+		</auswirkungen>
+	 </genre>
+	 	 
+	<genre stroemung="Chronofotografie">
+		<weitereNamen> Ungegenständliche Fotografie, Experimentelle Fotografie, Struktubilder </weitereNamen>
+		<zeitraum> 1910 - heute (vereinzelt finden sich auch Bsp. im 19. Jhdt.) </zeitraum>
+		<programmatik>
+			Die Abstrakte Fotografie kaschiert ihr gegenstandsbezogenes Wesensmerkmal und versucht sich nicht in dokumentarischer 
+			und damit realitätsnaher Darstellung, sondern verfremdet bereits Bekanntes. Ungewohnte Perspektiven, Nahaufnahmen sowie 
+			experimentelle fototechnische Verfahren befragen das Medium nach seinen Gestaltungspotentialen. Sie ist ästhetisch und 
+			nicht informativ ausgerichtet und tendiert somit zur Inszenierten Fotografie, verneint aber die gegenständliche und 
+			symbolhafte Visualisierung. 
+		</programmatik>
+		<merkmale> 
+			kubistisch, irreal, konstruktivistisch, experimentell, formal, Struktur, Textur, Muster, All-over 
+		</merkmale>
+		<protagonisten>  Alvin Langdon Cuborn, Christian Schad (Schadografien), Man Ray (Rayographien) </protagonisten>
+		<zitate>
+			 "Im Vordergrund steht die Visualisierung einer (abstrakten) Idee, die unter bewusster Vernachlässigung von Aspekten 
+			 der Gegenständlichkeit und Wiedererkennbarkeit fotografisch realisiert wird und Aussagen erlaubt, welche mit ikonischen 
+			 oder bildsymbolischen Mitteln nicht möglich sind. Das Gebiet schließt ebenso die Abstraktion (von Wirklichkeit) als auch 
+			 die Konkretion (von Möglichkeit) in sich ein." Gottfried Jäger
+		</zitate>
+		<einfluesse> Wird von den Experimenten der Wissenschaftlichen Fotografie beeinflusst, propagiert aber keine analytische Wahrheit. </einfluesse>
+		<auswirkungen> 
+			Verschiedene künstlerische Strömungen wie das Neue Sehen am Bauhaus und die daran anknüpfende Subjektive Fotografie lassen 
+			sich tendenziell dieser Bildgattung zuordnen.
+		</auswirkungen>
+	 </genre>	 
+	 
+     <genre stroemung="Abstrakte Fotografie">
+		<weitereNamen> Ungegenständliche Fotografie, Experimentelle Fotografie, Struktubilder </weitereNamen>
+		<zeitraum> 1910 - heute (vereinzelt finden sich auch Bsp. im 19. Jhdt.) </zeitraum>
+		<programmatik>
+			Die Abstrakte Fotografie kaschiert ihr gegenstandsbezogenes Wesensmerkmal und versucht sich nicht in dokumentarischer 
+			und damit realitätsnaher Darstellung, sondern verfremdet bereits Bekanntes. Ungewohnte Perspektiven, Nahaufnahmen sowie 
+			experimentelle fototechnische Verfahren befragen das Medium nach seinen Gestaltungspotentialen. Sie ist ästhetisch und 
+			nicht informativ ausgerichtet und tendiert somit zur Inszenierten Fotografie, verneint aber die gegenständliche und 
+			symbolhafte Visualisierung. 
+		</programmatik>
+		<merkmale> 
+			kubistisch, irreal, konstruktivistisch, experimentell, formal, Struktur, Textur, Muster, All-over 
+		</merkmale>
+		<protagonisten>  Alvin Langdon Cuborn, Christian Schad (Schadografien), Man Ray (Rayographien) </protagonisten>
+		<zitate>
+			 "Im Vordergrund steht die Visualisierung einer (abstrakten) Idee, die unter bewusster Vernachlässigung von Aspekten 
+			 der Gegenständlichkeit und Wiedererkennbarkeit fotografisch realisiert wird und Aussagen erlaubt, welche mit ikonischen 
+			 oder bildsymbolischen Mitteln nicht möglich sind. Das Gebiet schließt ebenso die Abstraktion (von Wirklichkeit) als auch 
+			 die Konkretion (von Möglichkeit) in sich ein." Gottfried Jäger
+		</zitate>
+		<einfluesse> Wird von den Experimenten der Wissenschaftlichen Fotografie beeinflusst, propagiert aber keine analytische Wahrheit. </einfluesse>
+		<auswirkungen> 
+			Verschiedene künstlerische Strömungen wie das Neue Sehen am Bauhaus und die daran anknüpfende Subjektive Fotografie lassen 
+			sich tendenziell dieser Bildgattung zuordnen.
+		</auswirkungen>
+	 </genre>
+
+    <genre stroemung="Piktorialismus">
+		<weitereNamen> Kunstfotografie, Bildmäßige Fotografie, Fine Art Photography </weitereNamen>
+		<zeitraum> 1885 - 1915 </zeitraum>
+		<programmatik>
+			Die internationale Strömung orientiert sich stilistisch an malerischen Tendenzen (Impressionismus, Naturalismus, Symbolismus),
+			um den Kunstanspruch der Fotografie zu betonen. Die Aufnahmesituationen tendieren zu bühnenhaften Inszenierungen. Eine detailreiche 
+			Wiedergabe wird zugunsten einer "künstlerischen" Unschärfe verweigert - lediglich der Hauptgegenstand solle scharf sein. Neben der 
+			malerischen Atmosphäre sah der Arzt und Fotograf Peter H. Emerson in der Technik des Out of Focus eine äquivalente Methode, um dem 
+			menschlichen Seheindruck näher zu kommen. Die menschliche Wahrnehmung wird zum Ideal und soll durch den Kunstfotografen imitiert werden.
+		</programmatik>
+		<merkmale> 
+			subjektiv, wahrnehmungsorientiert, konstruiert, theatral, sentimental, impressionistisch,
+			Photomontage, bühnenhafte Inszenierungen, künstlerische Unschärfe, Kompositionsregeln aus der Kunst, Edeldruckverfahren (Gummidruck)
+		</merkmale>
+		<protagonisten> Peter Henry Emerson, Getrude Käsebier, Heinrich Kühne </protagonisten>
+		<zitate>
+			"Tatsache ist, dass die Fotografie zu wahrheitsgetreu ist. Sie besteht darauf, uns "die Wahrheit, die ganze Wahrheit und nicht als 
+			 die Wahrheit" zu geben. Nun verlangen wir von der Kunst sehr wohl die erste und dritte dieser Forderungen, auf die mittlere können 
+			 wir jedoch gut verzichten."
+		</zitate>
+		<einfluesse> Malerei > Impressionismus, Symbolismus, Naturalismus; physiologisches Sehen </einfluesse>
+		<auswirkungen> 
+			Der Piktorialismus verhält sich komplementär zur Wissenschaftlichen Fotografie und wird durch sogenannte Amateure ausgeübt, 
+			diese unterscheiden sich von Berufsfotografen dadurch, dass sie die Fotografie nicht aus ökonomischen Gründen betreiben. 
+			Als Gegentendenzen etablieren sich anschließend die Straight Photography, das Neue Sehen und die Neue Sachlichkeit, die sich einer objektiveren, 
+			puristischeren Haltung bedienen.
+		</auswirkungen>
+	 </genre>
+	 
+	<genre stroemung="Neues Sehen">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+	 
+	<genre stroemung="Subjektive Fotografie">
+		<weitereNamen>  </weitereNamen>
+		<zeitraum> 1950 - 1960 </zeitraum>
+		<programmatik>
+			Die Subjektive Fotografie greift die experimentelle Varianz des Neuen Sehens auf, bezieht aber ihre Eigenart aus einer betont individualisierten, 
+			vermenschlichten Auffassung von Fotografie, die den Gestaltungswillen des Fotografen ins Zentrum rückt. Während am Bauhaus noch die verschiedensten 
+			Bildtechniken wie Typografie, Malerei und Zeichnung miteinander verwoben wurden, so fokussierte man sich in der Subjektiven Fotografie auf genuin 
+			fotografische Techniken. Die avantgardistische Strömung der Subjektiven Fotografie entwickelte sich aus der experimentellen Künstlergruppe Fotoform 
+			(1949-1952), der auch Otto Steinert angehörte. Steinert, Mitglied der NSDAP und promovierter Arzt, war die prägende Figur der Subjektiven Fotografie, 
+			die ihren Ausgangspunkt in Saarbrücken an der Staatlichen Schule für Kunst und Handwerk hatte. Steinerts Ziel war es die formalen Gestaltungsmöglichkeiten 
+			der Fotografie auszuloten und dies mittels diverser fototechnischer Formen wie dem Fotogramm, Luminogramm, Solarisation, Negativabbildungen, Doppelbelichtungen 
+			und Montagetechniken. Eine formalistische Nähe zu konstruktivistischen Tendenzen findet sich sowohl in den gegen- und ungegenständlichen Arbeiten; 
+			vereinzelt tauchen grafische Strukturen auf, die sich durch rhythmische Anordnungen auszeichnen und ins Abstrakte tendieren. Die Vertreter wandten 
+			sich mit ihren schwarz-weißen und kontrastreichen Einzelbildern gegen eine rein abbildende Funktion der Fotografie, wie sie in der zeitgenössischen 
+			Gebrauchs- und Dokumentarfotografie vorherrschte und verneinten die distanzierte sowie unterkühlte Sicht der Neuen Sachlichkeit. Man entzog sich somit 
+			einer realistischen Darstellung der Nachkriegszeit zugunsten einer Unbekümmertheit im Umgang mit fotografischer Prozessen, die eine Fokussierung auf 
+			formale Ergebnisse anstrebte: "Fast ausschließlich positioniert sie [die Subjektive Fotografie] das Subjektive als Haltung des Fotografen, in motivischer 
+			Hinsicht spielt das individuelle Subjekt jedoch eine untergeordnete Rolle." * Der Subjektivitätsanspruch kann ebenso als Reaktion auf die Kunstkritik gedeutet 
+			werden, die dem Fotografen durch das mechanisch-objektive Aufzeichnungsverfahren jegliche Bedeutung aberkannte. Dadurch kann eine inhaltliche, wenn auch keine 
+			formale, Verwandtschaft zum Piktorialismus herangezogen werden, die sich durch einen gemeinsamen Kunstanspruch äußert. * Augustine, Roland
+		</programmatik>
+		<merkmale> 
+			experimentell, grafisch, individuell, persönlich,
+			Fotogramm, Luminogramm, Solarisation, Negativabbildungen, Doppelbelichtungen und Montagetechniken 
+		</merkmale>
+		<protagonisten>  Otto Steinert, Kilian Breier, Peter Keetman, Helga Merfels, Joachim Lischke, Monika Dietz </protagonisten>
+		<zitate>
+			
+		</zitate>
+		<einfluesse> Bauhaus (Moholy-Nagy), Surrealismus (Man Ray) </einfluesse>
+		<auswirkungen> 
+			Die fotografische Tendenz der Generativen Fotografie, die maßgeblich durch Gottfried Jäger in Bielefeld geprägt wurde, greift die experimentellen Ansätze 
+			der Subjektiven Fotografie auf, verweigert sich aber einer individuell und surrealistischen Bildgestaltung.
+		</auswirkungen>
+	 </genre>
+	 
+	 	 
+	<genre stroemung="Wissenschaftliche Fotografie">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+	 
+	 
+	 <genre stroemung="Fotojournalismus">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+	 
+	<genre stroemung="Kriegsfotografie">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+	 	 
+	<genre stroemung="Concerned Photography">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+	 
+	<genre stroemung="Paparazzi Photography">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+	 
+	<genre stroemung="Citizen Journalism">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	 
+	 
+	<genre stroemung="Sozial Dokumentarische Fotografie">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Farm Security Administration">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Straight Photography">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="f/64">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Neue Sachlichkeit">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="New Color Photography">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="New Topographics">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+
+	<genre stroemung="Konzeptionelle Fotografie">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Becher-Schule">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Found Photography">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Reflexive Fotografie">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Generative Fotografie">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Surreale Fotografie">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+	 
+	<genre stroemung="Inszenierte Fotografie">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Linked Ring">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+
+	<genre stroemung="Photo Session">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Stage Photography">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+	 
+<genre stroemung="Cinematic Photography">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+
+	<genre stroemung="Modefotografien">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>	
+	 
+	<genre stroemung="Snapshot Aesthetic">
+		<weitereNamen> Konstruktivistische Fotografie </weitereNamen>
+		<zeitraum> 1920 - 1930 </zeitraum>
+		<programmatik>
+			Das Neue Sehen wendet sich motivisch von der Natur ab und widmet sich urbanen und industriellen Räumen, um die Moderne zu zelebrieren. 
+			Das Interesse gilt formalen Bildfindungen, die die Gegenstandsbereiche von Wissenschaft und Technik abstrahieren, um deren Dynamik und 
+			Geschwindigkeit zu betonen. Das Zentrum des Neuen Sehen ist die Bauhaus-Bewegung, diese wiederum ist maßgeblich vom russischem Konstruktivismus beeinflusst.
+		</programmatik>
+		<merkmale> 
+			abstrakt, dynamisch, geometrisch, objektiv, avantgardistisch,
+			extreme Schräg-, Unter- oder Aufsicht (keine Bauchnabelperspektive); Fotogramme; Optisch-Wahre
+		</merkmale>
+		<protagonisten>  Laszlo Moholy-Nagy, Alexander Rodtchenko, Aenne Biermann, Umbo </protagonisten>
+		<zitate>
+			"wenn die Kamera fähig ist, exakter - oder, wenn man will: anders - zu arbeiten als unsere augen, sollen wir darüber doch froh sein" Laszlo Moholy-Nagy
+		</zitate>
+		<einfluesse> Bauhaus-Bewegung, Surrealismus (Man Ray), russischer Konstruktivismus, Suprematismus </einfluesse>
+		<auswirkungen> 
+			Die in den 50er Jahren aufkommende Werbefotografie lässt sich von der dynamischen und produktbezogenen Darstellung des Neuen Sehens inspirieren. 
+			In naher Verwandtschaft steht die Subjektive Fotografie mit ihrem Protagonisten Otto Steinert.
+		</auswirkungen>
+	 </genre>
+</typologieDerFotografie>

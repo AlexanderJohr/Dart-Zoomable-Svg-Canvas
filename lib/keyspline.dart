@@ -1,4 +1,4 @@
-part of zoomable_svg_canvas;
+part of topology_of_the_photography;
 
 /** MIT License
  *

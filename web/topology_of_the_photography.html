@@ -1,0 +1,412 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Typologie Der Fotografie</title>
+    <link rel="stylesheet" href="topology_of_the_photography.css">
+
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/lightbox.min.js"></script>
+    <link rel="stylesheet" href="css/lightbox.css">
+</head>
+<body>
+
+
+
+    <div id="upper_corner">
+    </div>
+
+    <div id="overview_detail_wrapper">
+        <div id="genre_overview_viewbox">
+            <svg preserveAspectRatio="none" id="genre_overview_svg">
+
+                <defs>
+                    <linearGradient id="lgrad" x1="50%" y1="0%" x2="50%" y2="100%">
+                        <stop offset="0%" style="stop-color:rgb(248,235,216);stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:rgb(225,210,220);stop-opacity:1" />
+                    </linearGradient>
+                </defs>
+                <g class="genre">
+                    <rect class="background_rect genre_rect" x="0" y="0" width="4000" height="1500" style="fill: url(#lgrad);"></rect>
+
+                    <svg y="50" width="2000" height="1000" id="viewbox_svg">
+
+
+                        <g class="genre">
+                            <rect class="genre_rect" x="30" y="10" width="2000" height="390" style="stroke: #99825d;"></rect>
+                            <text class="genre_title" id="klasse1" x="40" y="150"  style="fill: #99825d;">Dokumentarische Fotografie</text>
+                            
+                            <g class="genre">
+                                <rect class="genre_rect" x="350" y="15" width="1500" height="80" style="stroke: #99825d;"></rect>
+                                <text class="genre_title" id="klasse2" x="360" y="25" style="fill: #99825d;">Wissenschaftliche Fotografie</text>
+                               
+                                <g class="genre">
+                                    <rect class="genre_rect" x="420" y="55" width="300" height="40" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse3" x="430" y="65" style="fill: #99825d;">Chronofotografie</text>
+                                </g>
+                            </g>
+                            
+                             <g class="genre">
+                                 <rect class="genre_rect" x="450" y="100" width="1500" height="40" style="stroke: #99825d;"></rect>
+                                 <text class="genre_title" x="460" id="klasse2" y="100"  style="fill: #99825d;">Fotojournalismus</text>
+                                 
+                                 <g class="genre">
+                                    <rect class="genre_rect" x="650" y="125" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse3" x="660" y="130"  style="fill: #99825d;">Kriegsfotografie</text>
+                                </g>
+                                
+                                <g class="genre">
+                                    <rect class="genre_rect" x="1000" y="110" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse3" x="1010" y="115"  style="fill: #99825d;">Concerned Photography</text>
+                                </g>
+                                
+                                <g class="genre">
+                                    <rect class="genre_rect" x="1100" y="125" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse3" x="1100" y="130"  style="fill: #99825d;">Paparazzi Photography</text>
+                                </g>
+                                
+                                <g class="genre">
+                                    <rect class="genre_rect" x="1350" y="110" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse3" x="1360" y="115"  style="fill: #99825d;">Citizen Journalism</text>
+                                </g>
+                            </g>
+                            
+                            <g class="genre">
+                                <rect class="genre_rect" x="650" y="180" width="1500" height="80" style="stroke: #99825d;"></rect>
+                                <text class="genre_title" id="klasse2" x="660" y="190"  style="fill: #99825d;">Sozial Dokumentarische Fotografie</text>
+
+                               <g class="genre">
+                                    <rect class="genre_rect" x="900" y="200" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse3" x="910" y="205"  style="fill: #99825d;">Farm Security Administration</text>
+                                </g>
+
+                            </g>
+                            
+                            <g class="genre">
+                                <rect class="genre_rect" x="800" y="260" width="400" height="80" style="stroke: #99825d;"></rect>
+                                <text class="genre_title" id="klasse2" x="810" y="270"  style="fill: #99825d;">Straight Photography</text>
+                               
+                               <g class="genre">
+                                    <rect class="genre_rect" x="900" y="280" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse3" x="910" y="290"  style="fill: #99825d;">f/64</text>
+                                </g>
+                            </g>
+                            
+                            <g class="genre">
+                                    <rect class="genre_rect" x="900" y="340" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse2" x="910" y="350"  style="fill: #99825d;">Neue Sachlichkeit</text>
+                             </g>    
+                            
+                            <g class="genre">
+                                    <rect class="genre_rect" x="1300" y="260" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse2" x="1310" y="270"  style="fill: #99825d;">New Color Photography</text>
+                             </g> 
+                             
+                             <g class="genre">
+                                    <rect class="genre_rect" x="1250" y="320" width="300" height="50" style="stroke: #99825d;"></rect>
+                                    <text class="genre_title" id="klasse2" x="1260" y="330"  style="fill: #99825d;">New Topographics</text>
+                             </g> 
+                        </g>
+                        
+                        <g class="genre">
+                             <rect class="genre_rect" x="1100" y="400" width="1000" height="200" style="stroke: #63a497;"></rect>
+                             <text class="genre_title" id="klasse1" x="1110" y="490"  style="fill: #63a497;">Konzeptionelle Fotografie</text>
+                        
+                              <g class="genre">
+                                    <rect class="genre_rect" x="1300" y="400" width="300" height="50" style="stroke: #63a497;"></rect>
+                                    <text class="genre_title" id="klasse2" x="1310" y="410"  style="fill: #63a497;">Becher-Schule</text>
+                              </g> 
+                              
+                              <g class="genre">
+                                    <rect class="genre_rect" x="1400" y="430" width="300" height="50" style="stroke: #63a497;"></rect>
+                                    <text class="genre_title" id="klasse2" x="1410" y="440"  style="fill: #63a497;"> Found Photography</text>
+                              </g> 
+                              
+                              <g class="genre">
+                                    <rect class="genre_rect" x="1380" y="500" width="300" height="50" style="stroke: #63a497;"></rect>
+                                    <text class="genre_title" id="klasse2" x="1390" y="510"  style="fill: #63a497;">Reflexive Fotografie</text>
+                              </g> 
+                        </g> 
+                        
+                         <g class="genre">
+                             <rect class="genre_rect" x="800" y="560" width="1000" height="200" style="stroke: #70a9bc;"></rect>
+                             <text class="genre_title" id="klasse1" x="810" y="640"  style="fill: #70a9bc;">Abstrakte Fotografie</text>
+                        
+                              <g class="genre">
+                                    <rect class="genre_rect" x="930" y="570" width="300" height="50" style="stroke: #70a9bc;"></rect>
+                                    <text class="genre_title" id="klasse2" x="940" y="580"  style="fill: #70a9bc;">Neues Sehen</text>
+                              </g> 
+                              
+                              <g class="genre">
+                                    <rect class="genre_rect" x="1200" y="670" width="300" height="50" style="stroke: #70a9bc;"></rect>
+                                    <text class="genre_title" id="klasse2" x="1210" y="680"  style="fill: #70a9bc;"> Subjektive Fotografie</text>
+                              </g> 
+                              
+                              <g class="genre">
+                                <rect class="genre_rect" x="1350" y="570" width="300" height="50" style="stroke: #70a9bc;"></rect>
+                                <text class="genre_title" id="klasse2" x="1360" y="580" style="fill: #70a9bc;">Generative Fotografie</text>
+                              </g>
+                              
+                               <g class="genre">
+                                <rect class="genre_rect" x="1000" y="700" width="300" height="50" style="stroke: #70a9bc;"></rect>
+                                <text class="genre_title" id="klasse2" x="1010" y="710" style="fill: #70a9bc;">Surreale Fotografie</text>
+                              </g>
+                        </g> 
+                        
+                        <g class="genre">
+                            <rect class="genre_rect" x="170" y="780" width="2000" height="200" style="stroke: #7f5486;"></rect>
+                            <text class="genre_title" id="klasse1" x="180" y="850" style="fill: #7f5486;">Inszenierte Fotografie</text>
+                            
+                             <g class="genre">
+                                <rect class="genre_rect" x="490" y="800" width="500" height="100" style="stroke: #7f5486;"></rect>
+                                <text class="genre_title" id="klasse2" x="500" y="810" style="fill: #7f5486;">Piktorialismus</text>
+                               
+                                <g class="genre">
+                                    <rect class="genre_rect" x="550" y="830" width="300" height="50" style="stroke: #7f5486;"></rect>
+                                    <text class="genre_title" id="klasse3" x="560" y="835" style="fill: #7f5486;">Linked Ring</text>
+                                </g>
+                                
+                                <g class="genre">
+                                    <rect class="genre_rect" x="600" y="810" width="300" height="50" style="stroke: #7f5486;"></rect>
+                                    <text class="genre_title" id="klasse3" x="610" y="820" style="fill: #7f5486;">Photo Session</text>
+                                </g>
+                            </g>
+                            
+                            <g class="genre">
+                                <rect class="genre_rect" x="1400" y="780" width="500" height="100" style="stroke: #7f5486;"></rect>
+                                <text class="genre_title" id="klasse2" x="1410" y="790" style="fill: #7f5486;">Stage Photography</text>
+                               
+                                <g class="genre">
+                                    <rect class="genre_rect" x="1550" y="820" width="300" height="50" style="stroke: #7f5486;"></rect>
+                                    <text class="genre_title" id="klasse3" x="1560" y="825" style="fill: #7f5486;">Cinematic Photography</text>
+                                </g>
+                            </g>
+                            
+                             <g class="genre">
+                                <rect class="genre_rect" x="1200" y="900" width="800" height="80" style="stroke: #7f5486;"></rect>
+                                <text class="genre_title" id="klasse2" x="1410" y="910" style="fill: #7f5486;">Modefotografie</text>
+                               
+                                <g class="genre">
+                                    <rect class="genre_rect" x="1550" y="920" width="1000" height="50" style="stroke: #7f5486;"></rect>
+                                    <text class="genre_title" id="klasse3" x="1560" y="925" style="fill: #7f5486;">Snapshot Aesthetic</text>
+                                </g>
+                            </g>
+                            
+                            
+                            
+                        </g>
+                    </svg>
+                </g>
+                <clipPath id="cut_off_left">
+                    <rect x="1%" y="0" width="98%" height="100" />
+                </clipPath>
+
+                <svg id="timeline_svg" clip-path="url(#cut_off_left)">
+                    <line x1="0" y1=50 x2="100%" y2="50" style="stroke:#908e89;stroke-width:2" />
+                </svg>
+
+            </svg>
+        </div>
+
+        <div id="genre_detail">
+        <div id="genre_detail_info_wrapper">
+            <div class="genre_detail_info prefab">
+              <div class="titel_info"> </div>
+              
+                <div class="beschreibung_links">
+                   <div class="Row">
+                      <div class="Cell Row1">
+                          <h5 class="beschreibung gattungsnamenH5"></h5>
+                      </div>
+                      <div class="Cell">
+                        <!--  <h5 id="nameStroemung"></h5> -->
+                          <p class="beschreibung gattungsnamen"></p>
+                      </div>
+                   </div>
+                   
+                   <div class="Row">
+                      <div class="Cell Row1">
+                          <h5 class="beschreibung zeitraumH5"></h5>
+                      </div>
+                      <div class="Cell">
+                          <p class="beschreibung zeitraum"></p>
+                      </div>
+                   </div>
+
+                  <div class="Row">
+                      <div class="Cell Row1">
+                          <h5 class="beschreibung programmatikH5"></h5>
+                      </div>
+                      <div class="Cell">
+                          <p class="beschreibung programmatik"></p>
+                      </div>
+                   </div>
+                   
+                   <div class="Row">
+                      <div class="Cell Row1">
+                          <h5 class="beschreibung merkmaleH5"></h5>
+                      </div>
+                      <div class="Cell">
+                          <p class="beschreibung merkmale"></p>
+                      </div>
+                   </div>
+               </div>
+               
+               <div class="beschreibung_rechts">
+                  <div class="Row">
+                      <div class="Cell Row1">
+                          <h5 class="beschreibung protagonistenH5"></h5>
+                      </div>
+                      <div class="Cell">
+                          <p class="beschreibung protagonisten"></p>
+                      </div>
+                   </div>
+                   
+                   <div class="Row">
+                      <div class="Cell Row1">
+                          <h5 class="beschreibung zitateH5"></h5>
+                      </div>
+                      <div class="Cell">
+                          <p class="beschreibung zitate"></p>
+                      </div>
+                   </div>
+
+                  <div class="Row">
+                      <div class="Cell Row1">
+                          <h5 class="beschreibung einfluesseH5"></h5>
+                      </div>
+                      <div class="Cell">
+                          <p class="beschreibung einfluesse"></p>
+                      </div>
+                   </div>
+                   
+                   <div class="Row">
+                      <div class="Cell Row1">
+                          <h5 class="beschreibung auswirkungenH5"></h5>
+                      </div>
+                      <div class="Cell">
+                          <p class="beschreibung auswirkungen"></p>
+                      </div>
+                   </div>
+                 
+               </div>
+            </div>
+            </div>
+            <div id="genre_detail_image_wrapper">
+            <div class="genre_detail_image prefab">
+                <div class="titel_bilderreihe"> </div>
+
+                <div class="image-row">
+                    <div class="image-set">
+                    
+                        <a class="image-link imgLink1" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img1" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink2" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img2" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink3" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img3" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink4" data-lightbox="img-set"
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img4" src="" alt="" /></div></div>
+                        </a>
+                        <a class="image-link imgLink5" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img5" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink6" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img6" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink7" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img7" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink8" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img8" src="" alt="" /></div></div>
+                        </a>
+                        <a class="image-link imgLink9" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img9" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink10" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img10" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink11" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img11" src="" alt="" /></div></div>
+                        </a>
+                       <a class="image-link imgLink12" data-lightbox=""
+                           data-title="">
+                            <div class="white"><div class="lila"><img height="100%" class="image img12" src="" alt="" /></div></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div id="left_corner_overview_detail_wrapper">
+        <div id="right_info">
+            <svg width="100%" viewBox="0 0 400 300">
+                <text x="0" y="20">Beschreibung</text>
+            </svg>
+        </div>
+
+        <div id="left_info">
+            <svg width="100%" height="100%" viewBox="0 0 200 300">
+
+                <text x="0" y="20">Startseite</text>
+                <text x="0" y="40">Übersicht</text>
+
+                <line x1="0" y1="80" x2="200" y2="80" style="stroke:rgb(255,255,255);stroke-width:2"></line>
+                <text x="0" y="120">Technische Erfindungen</text>
+                <text x="0" y="140">Publikationen</text>
+                <text x="0" y="160">Ausstellungen</text>
+                <line x1="0" y1="200" x2="200" y2="200" style="stroke:rgb(255,255,255);stroke-width:2"></line>
+                <text id="project_description_link" x="0" y="240">Projektbeschreibung</text>
+                <text x="0" y="260">Impressum</text>
+            </svg>
+        </div>
+        <div id="left_corner">
+            <div id="left_corner_plus">
+                <svg id="cross_svg" viewBox="0 0 60 60">
+                    <polygon xmlns="http://www.w3.org/2000/svg" points="343.577,513.188 343.577,537 356.578,537 356.578,513.188 379.879,513.188 379.879,501.501 356.578,501.501 356.578,477.472 343.577,477.472 343.577,501.501 320.204,501.501 320.204,513.188 " transform="translate(-320.204,-477.472)" />
+                </svg>
+            </div>
+            <div id="left_corner_detail_navi">
+                <svg  id="detail_info_img_svg">
+                    <svg y="-15" id="detail_img_svg" viewBox="0 0 79 61">
+                        <g transform="translate(-345.371,-333.5)">
+                        <rect x="345.371" y="333.5" width="79" height="61" style="stroke-width: 0; fill: #8e8e88;"></rect>
+                            <rect x="345.371" y="333.5" width="36.27" height="26.891001" />
+                            <rect x="387.33401" y="333.5" width="36.27" height="26.891001" />
+                            <rect x="345.371" y="366.15601" width="36.27" height="26.891001" />
+                            <rect x="387.33401" y="366.15601" width="36.27" height="26.891001" />
+                        </g>
+                    </svg>
+                    <svg y="10"  viewBox="0 0 50 50">
+                         <line x1="0" y1="0" x2="200" y2="0" />
+                     </svg> 
+                    <svg y="15" id="detail_info_svg" viewBox="0 0 50 50">
+                        <g transform="translate(-349.355,-171.647)"><path d="m 373.503,219.938 c 13.336,0 24.147,-10.812 24.147,-24.141 0,-13.343 -10.812,-24.156 -24.147,-24.156 -13.337,0 -24.148,10.813 -24.148,24.156 0,13.328 10.811,24.141 24.148,24.141" /><path d="m 379.078,210.16 v -1.256 c -3.092,-0.29 -3.43,-0.58 -3.43,-3.863 v -16.662 c -2.076,0.868 -4.395,1.497 -6.857,1.884 v 1.159 c 2.896,0.434 3.042,0.676 3.042,3.67 v 9.949 c 0,3.283 -0.339,3.573 -3.38,3.863 v 1.256 h 10.625 z m -5.651,-25.887 c 1.401,0 2.463,-1.159 2.463,-2.463 0,-1.449 -1.062,-2.511 -2.415,-2.511 -1.304,0 -2.463,1.062 -2.463,2.511 0,1.304 1.159,2.463 2.415,2.463" style="fill:#ffffff" /></g>
+                    </svg>
+                </svg>
+
+
+            </div>
+        </div>
+    </div>
+    <script type="application/dart" src="topology_of_the_photography.dart">
+    </script>
+    <script src="packages/browser/dart.js"></script>
+</body>
+</html>

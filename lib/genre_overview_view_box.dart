@@ -1,14 +1,16 @@
-part of zoomable_svg_canvas;
+part of topology_of_the_photography;
 
 class GenreOverviewViewBox {
 
-  final SvgElement svgElement;
-  final DivElement genreOverviewDiv;
-  
+  final svg.SvgElement svgElement;
+
+  KeySpline cubicBezier = new KeySpline(0.42, 0, 0.58, 1.0);
+
   num wrapperViewportWidth;
   num wrapperViewportHeight;
-  
-  
+
+  Rectangle<num> viewboxBounds = new Rectangle<num>(10, 0, 2200, 1000);
+
   final int animationDuration;
   Rectangle<num> _currentViewBox;
   Rectangle<num> _startViewBox;
@@ -19,29 +21,27 @@ class GenreOverviewViewBox {
 
   Stream get viewBoxChanged => viewBoxChangedController.stream;
 
-  GenreOverviewViewBox(this.svgElement, this.genreOverviewDiv, this.animationDuration) {
+  GenreOverviewViewBox(this.svgElement, this.animationDuration, this._desiredViewBox) {
 
     updateWrapperViewport();
-    
-    window.onResize.listen(onWindowResize);
-    
-    _currentViewBox = svgElement.client;
-    _startViewBox = svgElement.client;
-    _desiredViewBox = svgElement.client;
 
+
+    window.onResize.listen(onWindowResize);
+
+    _currentViewBox = _desiredViewBox;
+    _startViewBox = _desiredViewBox;
   }
 
   void updateWrapperViewport() {
-    Math.Rectangle wrapperRect = genreOverviewDiv.client;
+    Math.Rectangle wrapperRect = svgElement.client;
     wrapperViewportWidth = wrapperRect.width;
-    wrapperViewportHeight = wrapperRect.height;
+    wrapperViewportHeight = wrapperRect.height - 50;
+    if (_desiredViewBox != null) desiredViewBox = _desiredViewBox;
   }
 
 
-  static num ease(x) {
-    KeySpline cubicBezier = new KeySpline(0.42, 0, 0.58, 1.0);
+  num ease(x) {
     return cubicBezier.get(x);
-    //return pow(x, 2) / pow((x + (1 - x)), 2);
   }
 
 
@@ -55,15 +55,9 @@ class GenreOverviewViewBox {
 
     viewBoxChangedController.add(_currentViewBox);
 
-    //svgElement.attributes["viewBox"] = viewBox;
-
     if (animationInProgress) {
       window.animationFrame.then(animationLoop);
     }
-
-
-
-
   }
 
 
@@ -75,13 +69,13 @@ class GenreOverviewViewBox {
     return durationSinceAnimationStarted.inMilliseconds < animationDuration;
   }
 
-
-
-
   set desiredViewBox(Rectangle<num> value) {
 
     _startViewBox = _currentViewBox;
-    _desiredViewBox = value;
+
+    Rectangle<num> intersection = viewboxBounds.intersection(value);
+
+    _desiredViewBox = intersection;
 
     _timeDesiredPosWasSet = new DateTime.now();
 
@@ -100,8 +94,6 @@ class GenreOverviewViewBox {
 
     num eased = ease(passedMillisecondsPassedToOne);
 
-    //print(eased);
-
     num easedLeft = map(eased, 0, 1, _startViewBox.left, _desiredViewBox.left);
     num easedTop = map(eased, 0, 1, _startViewBox.top, _desiredViewBox.top);
     num easedWidth = map(eased, 0, 1, _startViewBox.width, _desiredViewBox.width);
@@ -116,10 +108,8 @@ class GenreOverviewViewBox {
     return "${rect.left} ${rect.top} ${rect.width} ${rect.height}";
   }
 
-
-
-  
   void onWindowResize(Event event) {
     updateWrapperViewport();
+
   }
 }
